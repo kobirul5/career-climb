@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Patel",
+    "quote": "Thanks to their personalized career guidance, I landed my dream job in data science within 3 months. Highly recommend their services!",
+    "achievement": "Data Scientist",
+    "company": "Google",
+    "image": "https://i.ibb.co.com/cF7yr2h/Google-logo-2013-2015-600x206.png"
+  },
+  {
+    "id": 2,
+    "name": "Emma Watson",
+    "quote": "Their resume-building and interview prep sessions gave me the confidence to ace my job interviews. I’m forever grateful!",
+    "achievement": "Marketing Specialist",
+    "company": "Tesla",
+    "image": "https://i.ibb.co.com/jybBCbd/tesla.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Liam Brown",
+    "quote": "The career assessment test revealed my true potential, and now I’m pursuing a fulfilling career in graphic design. Life-changing experience!",
+    "achievement": "Graphic Designer",
+    "company": "Facebook",
+    "image": "https://i.ibb.co.com/k6h08Wg/facebook.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Johnson",
+    "quote": "I was confused about my career options, but their counselors guided me step-by-step. Now I’m enrolled in my dream MBA program.",
+    "achievement": "MBA Student",
+    "company": "Stanford University",
+    "image": "https://i.ibb.co.com/r0KKQjH/stanford.jpg"
+  }
+]
+
+

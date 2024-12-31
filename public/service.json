@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/xfX4Zkp/Career-Counseling-Sessions.jpg",
+    "serviceName": "Career Counseling Sessions",
+    "category": "Online",
+    "description": "Personalized career guidance to help you achieve your professional goals.",
+    "pricing": "$50",
+    "duration": "05-12-24, 5:00 PM - 6:00 PM",
+    "counselor": "Dr. Amanda Smith",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/Gkx283L/Resume-Review-Resume-Review.jpg",
+    "serviceName": "Resume Review",
+    "category": "Online/Group",
+    "description": "Get expert feedback on your resume to make it stand out to recruiters.",
+    "pricing": "$30",
+    "duration": "06-12-24, 4:00 PM - 5:00 PM",
+    "counselor": "John Doe, HR Specialist",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/jVKgCSZ/Interview-Preparation.jpg",
+    "serviceName": "Interview Preparation",
+    "category": "Offline",
+    "description": "Mock interviews and tips to help you ace your next job interview.",
+    "pricing": "$70",
+    "duration": "10-12-24, 3:00 PM - 5:00 PM",
+    "counselor": "Sarah Lee, Career Coach",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/jVKgCSZ/Interview-Preparation.jpg",
+    "serviceName": "LinkedIn Profile Optimization",
+    "category": "Online",
+    "description": "Professional advice on optimizing your LinkedIn profile for networking and job hunting.",
+    "pricing": "$40",
+    "duration": "12-12-24, 6:00 PM - 7:00 PM",
+    "counselor": "Mark Robinson, Social Media Strategist",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/dLjkq3r/Leadership-Skills-Workshop.jpg",
+    "serviceName": "Leadership Skills Workshop",
+    "category": "Group/Offline",
+    "description": "Interactive sessions to develop and enhance your leadership skills.",
+    "pricing": "$100",
+    "duration": "15-12-24, 10:00 AM - 2:00 PM",
+    "counselor": "Emily Carter, Leadership Consultant",
+    "rating": 5.0
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/s5G9GD3/Personal-Branding-Coaching.jpg",
+    "serviceName": "Personal Branding Coaching",
+    "category": "Online",
+    "description": "Learn how to create and manage your personal brand for career success.",
+    "pricing": "$60",
+    "duration": "17-12-24, 5:30 PM - 7:00 PM",
+    "counselor": "Jessica White, Branding Expert",
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/TTtwPG5/Time-Management-Workshop.jpg",
+    "serviceName": "Time Management Workshop",
+    "category": "Group/Offline",
+    "description": "Learn strategies for better time management and increased productivity.",
+    "pricing": "$55",
+    "duration": "20-12-24, 9:00 AM - 1:00 PM",
+    "counselor": "Michael Scott, Productivity Coach",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/bBp7LMH/Soft-Skills-Development.jpg",
+    "serviceName": "Soft Skills Development",
+    "category": "Online",
+    "description": "Enhance your communication, teamwork, and problem-solving abilities.",
+    "pricing": "$40",
+    "duration": "22-12-24, 7:00 PM - 8:00 PM",
+    "counselor": "David Green, Soft Skills Trainer",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/1zmwLCw/Entrepreneurship-Coaching.jpg",
+    "serviceName": "Entrepreneurship Coaching",
+    "category": "Online",
+    "description": "Personalized coaching for aspiring entrepreneurs to build and scale their businesses.",
+    "pricing": "$120",
+    "duration": "25-12-24, 4:00 PM - 6:00 PM",
+    "counselor": "Laura Hughes, Entrepreneur Coach",
+    "rating": 4.9
+  }
+
+]

@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "How to Choose the Right Career Path",
+      "excerpt": "Discover practical steps to identify a career path that aligns with your interests, skills, and goals.",
+      "image": "https://i.ibb.co.com/Z6KhhQv/images.jpg",
+      "author": "John Doe",
+      "date": "2024-11-10"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Careers in 2024",
+      "excerpt": "Explore the most in-demand careers for 2024 and find out what makes them lucrative choices.",
+      "image": "https://i.ibb.co.com/kckR0K0/1571935756380.jpg",
+      "author": "Jane Smith",
+      "date": "2024-10-25"
+    },
+    {
+      "id": 3,
+      "title": "Tips for Acing Your Next Interview",
+      "excerpt": "Learn effective techniques to impress employers and stand out in your next job interview.",
+      "image": "https://i.ibb.co.com/QYYrjRj/1701472809499.jpg",
+      "author": "Michael Lee",
+      "date": "2024-09-15"
+    },
+    {
+      "id": 4,
+      "title": "Resume Mistakes to Avoid",
+      "excerpt": "Avoid common pitfalls that can weaken your resume and reduce your chances of getting noticed.",
+      "image": "https://i.ibb.co.com/TR1Zpwn/images-1.jpg",
+      "author": "Sophia Johnson",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 5,
+      "title": "How to Build a Strong LinkedIn Profile",
+      "excerpt": "Step-by-step guide to creating a LinkedIn profile that attracts recruiters and opportunities.",
+      "image": "https://i.ibb.co.com/cNK0YPq/digital-transformation-3.jpg",
+      "author": "Emily Davis",
+      "date": "2024-07-30"
+    }
+  ]
+  
